@@ -1,2 +1,2 @@
 # stack
-<p style="color: red">jdjfjx</p>
+<p style: "color: red">jdjfjx</p>
